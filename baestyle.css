@@ -1,0 +1,89 @@
+@font-face {
+    font-family: Jet Mono;
+    src: url(JetBrainsMono[wght].ttf);
+}
+
+body{
+    font-family: Jet Mono;
+    background: white;
+    color: black;
+    font-size: small;
+}
+.header{
+    padding-top: 1px;
+    padding-left: 2vh;
+    padding-bottom: 20vh;
+}
+.dsa{
+    padding-right: 50vw;
+    text-align: center;
+}
+.dsa a{
+    color: black;
+    text-decoration: none;
+}
+.sem{
+    padding-left: 50vw;
+    text-align: center;
+}
+.sem a{
+    color: black;
+    text-decoration: none;
+}
+
+/* .{
+    padding-top: 1vh;
+    text-align: center;
+} */
+/* .bae_pic{
+    width: 15vh;
+} */
+
+.huh{
+    padding-top: 10vw;
+    padding-left: 30vw;
+    text-align: center;
+}
+.huh a{
+    color: black;
+    text-decoration: none;
+}
+.header_fifth{
+    padding-top: 1px;
+    padding-left: 2vh;
+    padding-bottom: 10vh;
+    width: fit-content;
+}
+.header_fifth a{
+    text-decoration: none;
+    color: white;
+}
+
+.fifthsemhtml{
+    background-color: black;
+    color: white;
+}
+.fifthsemhtm{
+    background-color: white;
+    color: black;
+}
+.uhh{
+    padding-left: 2vh;
+}
+.header_fift{
+    padding-top: 1px;
+    padding-left: 2vh;
+    padding-bottom: 10vh;
+    width: fit-content;
+}
+.header_fift a{
+    text-decoration: none;
+    color: black;
+}
+.baeepic{
+    text-align: center;
+}
+.kpic{
+    text-align: center;
+    width: 10%;
+}
