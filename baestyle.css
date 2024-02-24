@@ -12,7 +12,7 @@ body{
 .header{
     padding-top: 1px;
     padding-left: 2vh;
-    padding-bottom: 20vh;
+    padding-bottom: 10vw;
 }
 .dsa{
     padding-right: 50vw;
@@ -82,10 +82,11 @@ body{
 }
 .baeepic{
     text-align: center;
+    padding-top: 2vw;
 }
 .kpic{
     text-align: center;
-    width: 10%;
+    width: 20vh;
 }
 .one{
     display: inline-block;
