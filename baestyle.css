@@ -5,7 +5,7 @@
 
 body{
     font-family: Jet Mono;
-    background: white;
+    background: rgb(222, 124, 121);
     color: black;
     font-size: small;
 }
@@ -86,4 +86,13 @@ body{
 .kpic{
     text-align: center;
     width: 10%;
+}
+.one{
+    display: inline-block;
+    text-align: center;
+    padding-left: 20vw;
+}
+.one a{
+    text-decoration: none;
+    color: black;
 }
