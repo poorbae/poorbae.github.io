@@ -41,7 +41,7 @@ body{
 } */
 
 .huh{
-    padding-top: 10vw;
+    padding-top: 7vw;
     padding-left: 30vw;
     text-align: center;
 }
@@ -95,6 +95,15 @@ body{
     padding-left: 20vw;
 }
 .one a{
+    text-decoration: none;
+    color: black;
+}
+.uh{
+    display: inline-block;
+    text-align: center;
+    padding-left: 30vw;
+}
+.uh a{
     text-decoration: none;
     color: black;
 }
