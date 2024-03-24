@@ -107,3 +107,18 @@ body{
     text-decoration: none;
     color: black;
 }
+.some{
+    display: flex;
+}
+.u{
+    /* padding-top: -vw; */
+    /* padding-left: 3vw; */
+    margin-top: -3vw;
+    display: inline-block;
+    text-align: center;
+    padding-left: 30vw;
+}
+.u a{
+    text-decoration: none;
+    color: black;
+}
