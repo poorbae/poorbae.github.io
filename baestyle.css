@@ -12,10 +12,11 @@ body{
 .header{
     padding-top: 1px;
     padding-left: 2vh;
-    padding-bottom: 8vw;
+    padding-bottom: 5vw;
     
 }
 .dsa{
+    padding-top: 4vw;
     padding-right: 50vw;
     text-align: center;
 }
@@ -41,7 +42,7 @@ body{
 } */
 
 .huh{
-    padding-top: 7vw;
+    padding-top: 10vw;
     padding-left: 30vw;
     text-align: center;
 }
@@ -82,11 +83,15 @@ body{
     color: black;
 }
 .baeepic{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
     text-align: center;
-    padding-top: 4vw;
+    /* padding-top: 4vw; */
 }
 .kpic{
-    text-align: center;
+    /* text-align: center; */
     width: 20vh;
 }
 .one{
@@ -99,6 +104,7 @@ body{
     color: black;
 }
 .uh{
+    padding-top: 5vw;
     display: inline-block;
     text-align: center;
     padding-left: 30vw;
