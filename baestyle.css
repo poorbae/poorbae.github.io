@@ -2,6 +2,10 @@
     font-family: Jet Mono;
     src: url(JetBrainsMono[wght].ttf);
 }
+@font-face {
+    font-family: Brico;
+    src: url(BricolageGrotesque-VariableFont_opsz\,wdth\,wght.ttf);
+}
 
 body{
     font-family: Jet Mono;
@@ -127,4 +131,9 @@ body{
 .u a{
     text-decoration: none;
     color: black;
+}
+.prettytext{
+    font-family: Brico;
+    font-size: x-large;
+    font-weight: bolder;
 }
