@@ -159,7 +159,7 @@ body{
     color: rgb(0, 0, 0);
 }
 .item {
-    width: 30em;
+    width: 28vw;
     display: inline-block;
     margin-top: 2rem;
     filter: grayscale(100%);
@@ -169,8 +169,9 @@ body{
     transform: rotate(2deg);
   }
   .polaroid {
+    /* background-image: url("img/white-paper-texture.jpg") ; */
     background: #fff;
-    padding: 1rem;
+    padding: 1vw;
     box-shadow: 0 0.2rem 1.2rem rgba(0,0,0,0.2);
     
   }
@@ -180,12 +181,12 @@ body{
   }
   .caption {
     font-family: Teen;
-    font-size: 1.8rem;
+    font-size: 1.8vw;
     text-align: center;
-    line-height: 2em;
+    line-height: 4vw;
   }
   .itemtwo {
-    width: 30em;
+    width: 28vw;
     display: inline-block;
     margin-top: 2rem;
     filter: grayscale(100%);
@@ -195,7 +196,7 @@ body{
     transform: rotate(-1deg);
   }
   .itemthree {
-    width: 30em;
+    width: 28vw;
     display: inline-block;
     margin-top: 2rem;
     filter: grayscale(100%);
@@ -206,7 +207,7 @@ body{
     transform: rotate(0.5deg);
   }
   .itemfour {
-    width: 30em;
+    width: 28vw;
     display: inline-block;
     margin-top: 2rem;
     filter: grayscale(100%);
@@ -217,7 +218,7 @@ body{
     transform: rotate(0.5deg);
   }
   .itemfive {
-    width: 30em;
+    width: 28vw;
     display: inline-block;
     margin-top: 2rem;
     filter: grayscale(100%);
