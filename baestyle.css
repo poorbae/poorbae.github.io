@@ -6,10 +6,14 @@
     font-family: Brico;
     src: url(BricolageGrotesque-VariableFont_opsz\,wdth\,wght.ttf);
 }
+@font-face {
+    font-family: Teen;
+    src: url(Brusher.ttf);
+}
 
 body{
     font-family: Jet Mono;
-    background: rgb(255, 247, 175);
+    background: rgb(255, 220, 175);
     color: black;
     font-size: small;
 }
@@ -137,3 +141,95 @@ body{
     font-size: x-large;
     font-weight: bolder;
 }
+.pol{
+    /* display: inline-block; */
+    text-align: center;
+    top: 60%;
+    right: 13%;
+    /* transform: translate(-50%, -50%); */
+    position: absolute;
+}
+.pol a{
+    text-decoration: none;
+    color: black;
+}
+
+.pola{
+    background-color: rgb(212, 212, 212);
+    color: rgb(0, 0, 0);
+}
+.item {
+    width: 30em;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+    left: 5%;
+    position: absolute;
+    box-shadow: 0 1.1rem 2rem rgba(0,0,0,0.4);
+    transform: rotate(2deg);
+  }
+  .polaroid {
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 0.2rem 1.2rem rgba(0,0,0,0.2);
+    
+  }
+  .polaroid > img{
+    max-width: 100%;
+    height: auto;
+  }
+  .caption {
+    font-family: Teen;
+    font-size: 1.8rem;
+    text-align: center;
+    line-height: 2em;
+  }
+  .itemtwo {
+    width: 30em;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+    left: 38%;
+    position: absolute;
+    box-shadow: 0 1.1rem 1.5rem rgba(0,0,0,0.4);
+    transform: rotate(-1deg);
+  }
+  .itemthree {
+    width: 30em;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+    top: 20%;
+    left: 69%;
+    position: absolute;
+    box-shadow: 0 1.1rem 1.4rem rgba(0,0,0,0.4);
+    transform: rotate(0.5deg);
+  }
+  .itemfour {
+    width: 30em;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+    top: 80%;
+    left: 14%;
+    position: absolute;
+    box-shadow: 0 1.1rem 1.5rem rgba(0,0,0,0.4);
+    transform: rotate(0.5deg);
+  }
+  .itemfive {
+    width: 30em;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+    top: 81%;
+    left: 54%;
+    position: absolute;
+    box-shadow: 0 1.1rem 1.5rem rgba(0,0,0,0.4);
+    /* transform: rotate(0.5deg); */
+  }
+  .footer{
+    /* padding: 3%; */
+    position: absolute;
+    /* height: 1vw; */
+    top: 150%;
+  }
