@@ -158,6 +158,30 @@ body{
     background-color: rgb(171, 171, 171);
     color: rgb(0, 0, 0);
 }
+.pookie{
+    position: absolute;
+    /* padding-top: 10vw; */
+    /* padding-left: 30vw; */
+    top: 25%;
+    right: 60%;
+    text-align: center;
+}
+.pookie a{
+    color: black;
+    text-decoration: none;
+}
+.us{
+    position: absolute;
+    /* padding-top: 10vw; */
+    /* padding-left: 30vw; */
+    top: 55%;
+    left: 10%;
+    text-align: center;
+}
+.us a{
+    color: black;
+    text-decoration: none;
+}
 .item {
     width: 28vw;
     display: inline-block;
