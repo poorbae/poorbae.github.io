@@ -1,40 +1,46 @@
-@font-face {
+@font-face 
+{
     font-family: Jet Mono;
     src: url(JetBrainsMono[wght].ttf);
 }
-
-body{
+body
+{
     font-family: Jet Mono;
     background: rgb(183, 222, 121);
     /* background: black; */
     color: black;
     font-size: small;
 }
-
-.header_fift{
+.header_fift
+{
     padding-top: 1px;
     padding-left: 2vh;
     padding-bottom: 10vh;
     width: fit-content;
 }
-.header_fift a{
+.header_fift a
+{
     text-decoration: none;
     color: black;
 }
-.sem{
+.sem
+{
     padding-left: 15vw;
     display: inline-block;
 }
-.pngg{
+.pngg
+{
     width: 10vh;
 }
-.sem a{
+.sem a
+{
     text-align: center;
     display: block;
     text-decoration: none;
     color: black;
 }
-.mes a{
+.mes a
+{
     text-align: center;
     display: block;
     text-decoration: none;
